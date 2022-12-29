@@ -7,4 +7,5 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Swift, Objective C and iOS/iPad development
 - 📫 How to reach me: gurjindersingh663@gmail.com
+https://www.linkedin.com/in/gurjinder-singh-094424251/
 
