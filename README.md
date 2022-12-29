@@ -9,5 +9,5 @@
 - 📫 How to reach me: gurjindersingh663@gmail.com
 https://www.linkedin.com/in/gurjinder-singh-094424251/
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurjnderSingh&show_icons=true&theme=light" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=gurjnderSingh&show_icons=true&theme=dark" width="400">
 
