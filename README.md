@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻: About Me :
- I am an iOS Developer<img src="https://media.giphy.com/media/QUHICAeUirKEQICn4Q/giphy.gif" height="30">from India.
+ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="30"> from India.
 
 - :telescope: I’m working as a Tech Lead for building iOS applications.
 - 🔭 I’m currently working on Swift
