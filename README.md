@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=gurjnderSingh&style=flat-square&color=blue" alt=""/>
   hey there
@@ -10,7 +11,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
+
 ### 👨‍💻: About Me :
  I am an iOS Developer<img src="https://media.giphy.com/media/QUHICAeUirKEQICn4Q/giphy.gif" height="30">from India.
 
